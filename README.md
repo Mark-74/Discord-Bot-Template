@@ -1,6 +1,8 @@
 ### Discord-Bot-Template
 # A base to create discord bots using discord.js version 14
 
+<img src='https://raw.github.com/voodootikigod/logo.js/master/specific-uses/badge_js-strict.png' width='200'/> 
+
 How to set up:
 
 - clone the repository;
