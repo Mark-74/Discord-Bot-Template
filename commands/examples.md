@@ -15,7 +15,7 @@ const { SlashCommandBuilder } = require('discord.js');
 - how to add a string option:
 ```javascript
 .addStringOption(option => 
-			option.setName('keyword')
-			.setDescription('video to search')
+			option.setName('string_name')
+			.setDescription('description')
 			.setRequired(true)),
 ```
