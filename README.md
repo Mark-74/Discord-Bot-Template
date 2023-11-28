@@ -20,5 +20,5 @@ How to set up:
     "clientId": "Your-Client-Id"
 }
 ```
-- set up the commands in the commands directory;
+- set up the commands in the [commands directory](commands/examples.md);
 - to run the bot, in the terminal, run ```node .``` or better ```nodemon .```
