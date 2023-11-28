@@ -14,7 +14,7 @@ How to set up:
 - (windows) open the cmd in the project directory and reun ```npm i```, this will install / update the required modules;
 - create a ```config.json``` file and insert your bot token and clientId;
   it should look like this:
-```
+```json
 {
     "token": "Your-Token",
     "clientId": "Your-Client-Id"
