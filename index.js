@@ -33,7 +33,7 @@ for (const folder of commandFolders) {
 
 client.on('ready', (c) => {
 	client.user.setActivity({
-		name: "",
+		name: "Edit me in the index.js",
 	});
 });
 
