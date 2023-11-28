@@ -21,4 +21,4 @@ How to set up:
 }
 ```
 - set up the commands in the commands directory;
-- to run the bot, in the terminal, run ```node .``` or better ```nodemon .```.
+- to run the bot, in the terminal, run ```node .``` or better ```nodemon .```
